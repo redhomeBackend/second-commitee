@@ -127,8 +127,6 @@ func mergeRight() {
 	Up()
 	merge()
 	Right90()
-	Creatnumber()
-	Print()
 }
 func mergeLeft() {
 	Right90()
