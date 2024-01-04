@@ -22,7 +22,7 @@
 
 <img width="174" alt="屏幕截图 2024-01-04 122233" src="https://github.com/Z-eng-zi/second-commitee/assets/146848093/0a2987a9-eb50-42d3-b09b-4b92e1db00bb">
 
-1.2 当游戏失败时
+ 1.2 当游戏失败时
 
 
 <img width="190" alt="屏幕截图 2024-01-04 122352" src="https://github.com/Z-eng-zi/second-commitee/assets/146848093/568fd148-5551-4f63-9ee9-6e5ef99d0bc7">
